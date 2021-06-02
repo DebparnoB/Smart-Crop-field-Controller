@@ -1,0 +1,141 @@
+#temp_area
+{
+  position: absolute;
+  width: 465px;
+  height: 268px;
+  left: 194px;
+  top: 96px;
+
+  background: #FFFFFF;
+  opacity: 0.75;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#humidity_area
+{
+  position: absolute;
+  width: 465px;
+  height: 268px;
+  left: 894px;
+  top: 96px;
+
+  background: #FFFFFF;
+  opacity: 0.75;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#soil_area
+{
+  position: absolute;
+  width: 465px;
+  height: 268px;
+  left: 194px;
+  top: 396px;
+
+  background: #FFFFFF;
+  opacity: 0.75;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#water_area
+{
+  position: absolute;
+  width: 465px;
+  height: 268px;
+  left: 894px;
+  top: 396px;
+
+  background: #FFFFFF;
+  opacity: 0.75;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#background3
+{
+display: block;
+position: absolute;
+width: 1633px;
+height: 792px;
+left: -98px;
+top: -39px;
+
+background: url(crop.jpg) no-repeat;
+}
+
+#area_name
+{
+position: absolute;
+width: 556px;
+height: 31px;
+left: 700px;
+top: 275px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: normal;
+
+color: #ffffff;
+opacity: 0.80;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#area_name2
+{
+position: absolute;
+width: 556px;
+height: 31px;
+left: 550px;
+top: 275px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+
+color: #ffffff;
+opacity: 0.80;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+#heading
+{
+  position: absolute;
+  width: 856px;
+  height: 10px;
+  left: 510px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: normal;
+
+  color: #b66e02;
+  opacity: 0.80;
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+
+.footer
+{
+  position: absolute;
+width: 1533px;
+height: 50px;
+left: 0px;
+top: 700px;
+
+background: rgba(45, 44, 44, 0.7);
+box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.34);
+}
+
+#copyright
+{
+  position: absolute;
+  color: white;
+  left : 575px;
+  font-size: 18px;
+}

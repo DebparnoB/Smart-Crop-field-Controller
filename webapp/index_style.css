@@ -1,0 +1,165 @@
+#background
+{
+display: block;
+position: absolute;
+width: 1633px;
+height: 792px;
+left: -98px;
+top: -39px;
+
+background: url(crop.jpg) no-repeat;
+}
+
+#title
+{
+position: absolute;
+width: 1000px;
+height: 637px;
+left: 30px;
+top: 12px;
+}
+
+#frame
+{
+  position: absolute;
+width: 465px;
+height: 228px;
+left: 994px;
+top: 166px;
+
+background: #FFFFFF;
+opacity: 0.75;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#admin_login_text
+{
+  position: absolute;
+  width: 156px;
+  height: 31px;
+  left: 158px;
+  top: 5px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: normal;
+
+  color: #000000;
+}
+
+#Username_label
+{
+position: absolute;
+width: 86px;
+height: 18px;
+left: 40px;
+top: 63px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: normal;
+
+color: #00000;
+}
+
+#password_label
+{
+  position: absolute;
+width: 148px;
+height: 31px;
+left: 43px;
+top: 112px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: normal;
+
+color: #000000;
+}
+
+#user_name
+{
+  position: absolute;
+width: 284px;
+height: 32px;
+left: 152px;
+top: 68px;
+
+background: #7A7777;
+color: #ffffff;
+}
+
+#password
+{
+position: absolute;
+width: 284px;
+height: 32px;
+left: 152px;
+top: 127px;
+
+background: #7A7777;
+color: #ffffff;
+}
+
+
+
+#submit_button
+{
+position: absolute;
+width: 98px;
+height: 29px;
+left: 152px;
+top: 186px;
+color: white;
+
+background: #DE6969;
+}
+
+#background2
+{
+display: block;
+position: absolute;
+width: 1633px;
+height: 792px;
+left: -98px;
+top: -39px;
+
+background: url(crop.jpg) no-repeat;
+}
+
+#block
+{
+position: absolute;
+width: 586px;
+height: 253px;
+left: 136px;
+top: 171px;
+
+background: rgba(196, 196, 196, 0.71);
+}
+
+.footer
+{
+  position: absolute;
+width: 1533px;
+height: 50px;
+left: 0px;
+top: 700px;
+
+background: rgba(45, 44, 44, 0.7);
+box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.34);
+}
+
+#copyright
+{
+  position: absolute;
+  color: white;
+  left : 575px;
+  font-size: 18px;
+}
