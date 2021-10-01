@@ -1,5 +1,5 @@
 # Smart-Crop-field-Controller
-# ****SMART INDIA HACKATHON-2018****
+# **SMART INDIA HACKATHON-2018**
 
 **LINK OF THE WEBSITE:**
 http://smartagriculture.atspace.cc/ 
